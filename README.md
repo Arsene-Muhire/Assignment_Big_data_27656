@@ -1,3 +1,6 @@
+Here is the link to google drive for uber cleaned data. Thank you
+https://drive.google.com/file/d/1pdJ9n0r2e76abgvPToaVdh4AMkq19LKw/view?usp=drive_link
+
 This project analyzes Uber Fares data to uncover patterns in ride fares, durations, and operational metrics. The objective is to provide actionable insights using data cleaning, feature engineering, and interactive visualizations in Power BI.
 The dataset was downloaded from Kaggle and processed in Python. Data cleaning involved removing missing values, duplicates, and outliers. Feature engineering added columns such as hour, day, month, distance, and time of day. The enhanced dataset was imported into Power BI for visualization and analysis.
 So as you see here are the screenshot of how most of step about how i cleaned my data and also about how I added some of the features that were not there
