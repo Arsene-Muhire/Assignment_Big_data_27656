@@ -21,7 +21,8 @@ So as you see here are the screenshot of how most of step about how i cleaned my
 And also here are screenshoots for Power BI that i took which contains the diagram that were requested 
 
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/58e9736f-e3a4-4f48-9696-542e52b95389" />
-![2](https://github.com/user-attachments/assets/69b99386-fcb9-4c88-8747-3cd27963e7fe)
+
+![2](https://github.com/user-attachments/assets/69b99386-fcb9-4c88-8747-3cd27963e7fe
 
 ![3](https://github.com/user-attachments/assets/11a9a93f-2d7c-4633-b6e0-ca12205def7b)
 
